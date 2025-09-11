@@ -1,2 +1,2 @@
-# Nesx-Compiler
-Collection of Compilers with first iterration 😔
+# Ness Interpreter
+Collection of Compilers with first iterration.
